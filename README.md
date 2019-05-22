@@ -5,7 +5,7 @@
 - utils/api.js 自定义axios请求封装
 - utils/commom-url.js 请求api地址管理
 - utils/rem.js 移动端适配js
-- utils/vuex-loading.js 自定义
+- utils/vuex-loading.js 自定义状态管理
 - 路由切换动画 + keep alive 动态管理缓存组件
 - better-scroll的vue优化
 - vue.config.js   vue配置
